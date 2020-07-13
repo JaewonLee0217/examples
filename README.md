@@ -1,4 +1,4 @@
-# TensorFlow Examples
+# TensorFlow예제들 이용해서 학습해보기(image classify학습중)
 
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" /><br /><br />
